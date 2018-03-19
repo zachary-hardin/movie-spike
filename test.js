@@ -28,3 +28,6 @@ function processMovies() {
   console.log("bar");
   console.log(movie);
 }
+
+
+// https://blog.risingstack.com/mastering-async-await-in-nodejs/
